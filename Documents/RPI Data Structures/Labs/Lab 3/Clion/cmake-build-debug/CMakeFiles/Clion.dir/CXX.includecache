@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/cygdrive/c/Users/yasee/Documents/RPI Data Structures/Labs/Lab 3/Clion/Point2D.h
+
+/cygdrive/c/Users/yasee/Documents/RPI Data Structures/Labs/Lab 3/Clion/Rectangle.h
+vector
+-
+Point2D.h
+/cygdrive/c/Users/yasee/Documents/RPI Data Structures/Labs/Lab 3/Clion/Point2D.h
+
+/cygdrive/c/Users/yasee/Documents/RPI Data Structures/Labs/Lab 3/Clion/main.cpp
+iostream
+-
+Rectangle.h
+/cygdrive/c/Users/yasee/Documents/RPI Data Structures/Labs/Lab 3/Clion/Rectangle.h
+

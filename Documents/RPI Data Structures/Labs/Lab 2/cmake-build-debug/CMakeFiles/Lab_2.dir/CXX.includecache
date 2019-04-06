@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/cygdrive/c/Users/yasee/Documents/RPI Data Structures/Labs/Lab 2/main.cpp
+iostream
+-
+vector
+-
+algorithm
+-
+time.h
+/cygdrive/c/Users/yasee/Documents/RPI Data Structures/Labs/Lab 2/time.h
+
+/cygdrive/c/Users/yasee/Documents/RPI Data Structures/Labs/Lab 2/time.h
+
